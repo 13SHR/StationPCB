@@ -4,3 +4,4 @@ Display: X077-6428TSWCG01-H13
 MCU: ATMEGA328P-AU
 USB-C Connector: MC-312D-C
 USB-C Interface: CH340N
+Crystal 16MHz: 
