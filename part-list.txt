@@ -1,0 +1,3 @@
+Humidity Sensor: STTS22HTR
+Switch: ST-0-102-C04-N008-RS
+Display: X077-6428TSWCG01-H13
