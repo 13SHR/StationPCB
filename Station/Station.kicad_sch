@@ -1320,7 +1320,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96c077e3-776f-4899-9cbd-c215c270c8da")
-		(property "Reference" "S1"
+		(property "Reference" "STTS22HTR"
 			(at 101.346 46.99 0)
 			(effects
 				(font
@@ -1384,7 +1384,7 @@
 		(instances
 			(project ""
 				(path "/7f7e2b09-5167-49f8-a89c-b41fa1731313"
-					(reference "S1")
+					(reference "STTS22HTR")
 					(unit 1)
 				)
 			)
